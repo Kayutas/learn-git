@@ -1,6 +1,6 @@
 # Learn about Git and Github
 
-''' python
+'''javascript 
 console.log('Hello World');
 
 '''
